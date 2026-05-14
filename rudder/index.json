@@ -1,4 +1,13 @@
 {
-  "version": 2,
-  "templates": []
+  "version": 3,
+  "templates": [
+    {
+      "id": "electron-fullstack",
+      "type": "spec",
+      "name": "Electron + React + TypeScript",
+      "description": "Full-stack Electron desktop app with React frontend and SQLite backend",
+      "path": "rudder/specs/electron-fullstack",
+      "tags": ["electron", "react", "typescript", "sqlite"]
+    }
+  ]
 }
